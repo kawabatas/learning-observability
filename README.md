@@ -33,6 +33,8 @@ OpenTelemetryではオブザーバビリティを①テレメトリーの作成�
 (引用元 [オブザーバビリティの最前線 OpenTelemetryで下げる認知負荷~活用事例4選~](https://findy-tools.io/articles/opentelemetry/12) 一読を進める)
 ([OpenTelemetryのこれまでとこれから](https://docs.google.com/presentation/d/e/2PACX-1vQdJTNtd8WLpGmL5KyaYzZtgmMYEroybE-dG-9FJ00mZ_a4-A_CXQhkoj2RBzFxIC2pSZHCgnLNseRZ/pub?resourcekey=0-tGqb05CaH1bETsKt11EdtA&slide=id.g48a57ebc11_0_0) こちらも一読を進める)
 
+[メトリクス、ログ、トレースをうまく使い分けて可観測性を高めよう](https://speakerdeck.com/masayoshi/metorikusu-rogu-toresuwoumakushi-ifen-keteke-guan-ce-xing-wogao-meyou)
+
 ### Go のロガーをどうするか
 >1.グローバル変数にloggerのインスタンスを入れておく
 >
